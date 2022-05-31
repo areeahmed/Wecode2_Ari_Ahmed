@@ -1,1 +1,6 @@
 Hello my name is Ari Ahmed and, I am a Wecode bootcamp participant
+Ari is a Student at Salahaddin University - IT Depeartment 
+My Profile Link is: 
+Linkedin: https://www.linkedin.com/in/ari-ahmed
+Stack Overflow:  https://stackoverflow.com/users/12657287/aree-ahmed
+GitHub: https://github.com/areeahmed
